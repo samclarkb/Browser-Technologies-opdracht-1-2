@@ -5,7 +5,7 @@ De kern functionaliteiten van een website moeten het ten alle tijden doen, dat i
 
 <img src='https://github.com/samclarkb/Browser-Technologies-opdracht-1-2/blob/main/page1.png/'> <img src='https://github.com/samclarkb/Browser-Technologies-opdracht-1-2/blob/main/page2.png/'>
 
-## Asignment 2
+## Asignment ( Breek het web :broken_heart: )2
 Ik was donderdag helaas niet aanweezig bij de les, vandaar heb ik zelf onderzoek gedaan naar twee verschillende features. Ik heb ervoor gekozen om te onderzoeken hoe de websites functioneren zonder trackpad en zonder Javascript. Ik heb deze twee onderwerpen gekozen, omdat ik denk dat deze twee van grote invloed zijn.
 
 ### Trackpad

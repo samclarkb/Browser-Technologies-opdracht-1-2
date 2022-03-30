@@ -25,9 +25,9 @@ Vervolgens ben ik de website van BC Castellum gaan onderzoeken. Hier kwam ik wel
 
 
 ### Trackpad:
-Voor deze opdracht had ik nog niet eerder met alleen mijn keyboard door een website genavigeerd en ik moet zeggen dat het mij flink tegen viel. Op een Macbook kan je de trackpad gemakkelijk uitzetten in de systeemvoorkeuren van je Macbook. Vervolgens kan je hier een shortcut instellen dat wanneer je vijf keer op option drukt, de trackpad wordt geactiveerd of gedeactiveerd.
+Voorafgaand deze opdracht had ik nog niet eerder met alleen mijn keyboard door een website genavigeerd en ik moet zeggen dat het mij flink tegen viel. Op een Macbook kan je de trackpad gemakkelijk uitzetten in de systeemvoorkeuren van je Macbook. Vervolgens kan je hier een shortcut instellen dat wanneer je vijf keer op option drukt, de trackpad wordt geactiveerd of gedeactiveerd.
 
-Persoonlijk vind ik de focus state een beetje matig.
+Op beide websites ziet de focus state er hetzelfde uit en persoonlijk vind ik het uiterlijk een beetje matig. De focus state is wel ontworpen, alleen in mijn ogen valt hij te weinig op (weinig contrast). bij Instagram liep ik tegen het probleem aan dat ik niet wist dat je omhoog kan tabben. Instagram heeft een infinte feed, dus zonder omhoog te tabben ben je eindeloos bezig en kan je niet naar andere pagina's navigeren. Je zou dit probleem op kunnen lossen door na een aantal berichten, laten we zeggen 7, een 'laad meer' button toevoegen. Op deze manier geef je mensen de keuze om meer berichten te tonen of om weer door naar de navigatie balk te navigeren. 
 
 <img src='https://github.com/samclarkb/Browser-Technologies-opdracht-1-2/blob/main/images/brokenWeb9.png/' width='500px'> 
 
